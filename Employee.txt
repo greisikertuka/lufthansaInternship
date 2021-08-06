@@ -1,0 +1,35 @@
+========= Employee =========Karte Identiteti:
+emriPlote='Greisi Kertuka'
+Kombesia='Shqiptar'
+Vendlindja='Diber'
+Ditelindja=Wed Jul 07 00:00:00 CEST 1999
+Gjinia=Mashkull
+
+Contact
+Email='greisikertuka@Gmail.com'
+Facebook='Greisi Kertuka'
+Cel='0834q38921'
+
+Gjimnaz
+Emri i gjimnazit='Leonik Tomeo'
+Publik='Publik'
+Adresa='Stadiumi i Teutes'
+Universitet
+Emri='FTi'
+Deget=[Informatike, Elektronike, Telekom]
+Adresa=''
+
+Eksperienca: 1 vite
+Punet e meparshme
+Pozicioni i punes='Developer'
+Pershkrimi i punes='Developer'
+Data e nisjes=Mon May 04 00:00:00 CEST 2020
+Data e mbarimit=Tue May 04 00:00:00 CEST 2021
+Kompania='LuftHansa'
+
+Adresa
+Numer apartamenti=23
+Rruga='Mujo Ulqinaku'
+Qyteti='Durres'
+Shteti='Albania'
+
