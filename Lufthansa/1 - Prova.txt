@@ -1,0 +1,20 @@
+Faqja e signup te facebook
+
+//*[@name='firstname']
+
+//*[text()='Si e ke emrin?']
+
+//span[@class='_5k_2 _5dba']
+
+//button[@name='websubmit']
+
+//*[@name='websubmit']
+
+//button[text()='Regjistrohu']
+
+//option[@value='2019']
+
+//ul[@class='d-lg-flex list-style-none']/li[1]
+
+
+

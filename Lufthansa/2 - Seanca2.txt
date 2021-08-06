@@ -1,0 +1,24 @@
+me / ose me > Kerkohen elementet e direktorise femije
+me // ose me hapsire Kerkohen elementet e te gjitha nendirektorive
+
+//button[contains (text(),'Kërko')]//parent::div
+
+//button[contains (text(),'Kërko')]/..
+
+//button[contains (text(),'Kërko')]/../..
+
+//button[contains (text(),'Kërko')]/..//preceding-sibling::div
+
+//button[contains (text(),'Kërko')]/..//preceding-sibling::div//following-sibling::div
+
+//div[count(*)=0]   S'ka prind
+
+//div[count(div)=2]
+
+Gjej cmimim e kursit python:
+//table[@id='product']//td[text()='Python Programming Language ']//following-sibling::td
+//table[@id='product']//td[contains(text(),'Python')]//following-sibling::td
+
+Gjej kursin qe e ka cmimin 25:
+//table[@id='product']//td[contains(text(),'25')]/preceding-sibling::td[1]
+//table[@id='product']//td[text()='25 ']/preceding-sibling::td[1]

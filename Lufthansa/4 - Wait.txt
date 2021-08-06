@@ -1,0 +1,7 @@
+Implicit Wait pret nje kohe te caktuar dhe e teston prape kur kap exception, s'perdoret shume.
+
+Explicit Wait e teston ne menyre frekuente cdo 250 ms brenda intevalit qe japim ne, shume i perdorshem.
+
+Fluent Wait e percaktojme vete frekuencen.
+
+Perdorimi me i mire i explicit Wait ne vend te sleep.

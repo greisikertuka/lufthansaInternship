@@ -1,0 +1,9 @@
+Perdor assertion, pasi tregon linjen ku ndodhi errori.
+Assertion.assertEquals(te aktuali, te tjetri);
+
+Action actions=new Action(driver);
+actions.metodat() - Shihi
+
+Krijo nje klase helper, krijo dhe nje 
+isDisplayed(); - mos te dali excpetion kur s ndodhet te html
+

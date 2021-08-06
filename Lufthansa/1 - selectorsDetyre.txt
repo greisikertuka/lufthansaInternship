@@ -1,0 +1,16 @@
+Nga faqja e reddit.com
+
+findElement(By.xpath(//i[@class='_2BQPq3iyS8t6kKtFmtkB30  icon icon-help']))
+findElement(By.cssSelector(i.icon-help))  Pikepyetja anash Help Center
+
+findElement(By.xpath(//div[@class='_1HGeWoy6faY2UWkCD7cYoW']))
+findElement(By.cssSelector(div._1HGeWoy6faY2UWkCD7cYoW)) Reddit coins
+
+//span[text()='Create Community']
+findElement(By.cssSelector(#focus-CreateCommunity>span))Create community
+
+//*[@class='_2e2g485kpErHhJQUiyvvC2 _3kUvbpMbR21zJBboDdBH7D']
+findElemebt(By.cssSelector(button._2e2g485kpErHhJQUiyvvC2[aria-checked="false"]))Butoni Nightmode
+
+
+

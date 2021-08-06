@@ -1,0 +1,10 @@
+Project Requirements
+1. Automate 6 scenarios using a Selenium framework ( Selenium + Java)
+2. Use Junit / TestNG
+3. Organize the code using Page Object Model structure
+4. Use asserts to do the verifications asked in different steps
+5. Use wait methods (try avoiding thread.sleep)
+6. Configure Screenshot Capture on failure
+7. Configure Report (Not mandatory)
+8. Feel free to add any other feature to your mini project
+9. Upload the project in Git and send it via email to : fabjola.doda@lhind.dlh.de

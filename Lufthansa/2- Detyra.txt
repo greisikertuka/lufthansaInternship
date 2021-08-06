@@ -1,0 +1,46 @@
+1.
+ //linkList[@name='A']//*[@name='A']
+
+2. 
+ //job[@priority='high' or @priority='critical']
+
+3.
+ //person[@age<35]
+
+4.
+ //person[starts-with(@firstname,'H')]
+
+5.
+ //person[position()=1 or position()=2 or position()=3]
+
+6.
+ //product[@category='2']//following-sibling::product[@category='1']
+
+7.
+ //document/content//a
+
+8.
+ //content/html[@xmlns='http://www.w3.org/1999/xhtml']//a[contains(@href, 'google')]
+
+9.
+ 
+ //content/html[@xmlns='http://www.w3.org/1999/xhtml']//a[@target='new']
+
+10.
+ //*[starts-with(local-name(),'item')]
+
+11.
+ //*[contains(@width,'px')]
+
+12.
+ //*[starts-with(local-name(),'band') or starts-with(local-name(),'artist')]//cds[count(cd)=1]
+ose
+ //band//cds[count(cd) = 1] | //artist//cds[count(cd) = 1]
+
+13.
+  Popullsia e Frances:
+//*[text()='France']//following-sibling::div[1]
+  Densiteti i Gjermanise:
+//*[text()='Germany']//following-sibling::div[@dhx_col_id='density']
+
+

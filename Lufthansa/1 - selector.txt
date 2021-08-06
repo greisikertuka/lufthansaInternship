@@ -1,0 +1,24 @@
+findElement(By.locator("name"))
+{
+findElement(By.id("_fdsr_te_b"))
+findElement(By.name("mennadd"))
+findElement(By.className("butoniLogout"))
+findElement(By.tagName("div"))
+findElement(By.linkText("https://www.instagram.com/greisikertuka"))
+findElement(By.partialLinkText("greisikertuka"))
+}
+
+CSS Selector
+
+findElement(By.cssSelector(tag#id))
+          div#Carousel-cf5bc799
+findElement(By.cssSelector(tag.class))
+          a._2vEf-C2keJaBMY9qk_BxVn  
+findElement(By.cssSelector(tag[attribute=value]))   
+          div[data-redditstyle="true"]
+findElement(By.cssSelector(tag.class[attribute=value]))
+          div.Q_8zU4uCu[id="Carousel-cf5bc799"]
+XPath
+{
+findElement(By.xpath("XPath"))
+}
